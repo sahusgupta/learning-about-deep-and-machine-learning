@@ -1,0 +1,3 @@
+sigmoid - binary classification: object can either be A or B
+relu - 
+softmax - 
